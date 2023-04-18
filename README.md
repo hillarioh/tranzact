@@ -4,7 +4,7 @@
 
 ## Introduction
 
-HOST: [https://aza-transactions.herokuapp.com/api/v1](http://tranzact.fly.dev/tranzact/api/v1).
+HOST: [http://tranzact.fly.dev/tranzact/api/v1](http://tranzact.fly.dev/tranzact/api/v1).
 
 ## Models created
 
